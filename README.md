@@ -1,6 +1,6 @@
 # Hola, soy Rubén
 
-🎓 Estudiante de Ingeniería Informática
+🎓 Estudiante de Ingeniería Informática  
 🛠️ Apasionado por la administración de sistemas, redes y servicios autoalojados
 
 ---
