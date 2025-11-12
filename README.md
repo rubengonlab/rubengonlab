@@ -20,7 +20,3 @@
 ---
 
 📧 Email: gonzalezlaballos@gmail.com
-
-# 📈 Estadísticas
-
-![Rubén's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rubengonlab&show_icons=true&theme=radical)
