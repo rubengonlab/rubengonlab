@@ -19,12 +19,7 @@
 
 ---
 
-# 📫 Contacto
-
-Puedes encontrarme o contactarme por:
-
-- 💼 LinkedIn:[https://www.linkedin.com/in/rub%C3%A9n-gonz%C3%A1lez-laball%C3%B3s-b3458829b/]
-- 📧 Email: gonzalezlaballos@gmail.com
+📧 Email: gonzalezlaballos@gmail.com
 
 # 📈 Estadísticas
 
